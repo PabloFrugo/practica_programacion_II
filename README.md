@@ -2,6 +2,7 @@
 
 ### Detalle de todos los temas abordados hasta el momento:
 
+### Datos complejos
 - Lista
 - Tupla
 - Diccionario
