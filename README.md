@@ -1,1 +1,1 @@
-# practica_programacion_II
+# Este repositorio es utilizado para ejercicios de practica relacionados a la materia Programación II.
